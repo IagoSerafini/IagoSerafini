@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Iago 👋
 
-<!--
-**IagoSerafini/IagoSerafini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UNINOVE  
+💻 Interesse em Desenvolvimento Back-end e Banco de Dados  
+📚 Atualmente estudando Java, Python e SQL  
+🚀 Buscando minha primeira oportunidade de estágio em Tecnologia
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- SQL
+- MySQL
+- Microsoft SQL Server
+- Oracle Database
+- Git e GitHub
+- HTML/CSS
+- JavaScript
+- C#
+
+## 📚 Projetos
+
+### Sistema de Biblioteca
+Projeto pessoal em Java desenvolvido para praticar Programação Orientada a Objetos e conceitos de desenvolvimento Back-end.
+
+> Projeto em desenvolvimento.
+
+## 📫 Contato
+
+- LinkedIn: COLOQUE_SEU_LINK_AQUI
