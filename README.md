@@ -27,4 +27,4 @@ Projeto pessoal em Java desenvolvido para praticar Programação Orientada a Obj
 
 ## 📫 Contato
 
-- LinkedIn: COLOQUE_SEU_LINK_AQUI
+- LinkedIn: https://www.linkedin.com/in/iago-serafini-9181a9381/
